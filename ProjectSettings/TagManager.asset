@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Furniture
+  - Breakable
+  - JumPad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UJumpPad
+  - UFurniture
+  - UWalls
+  - UBackground
+  - UItems
+  - UPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 1199335683
+    locked: 0
+  - name: BackGround
+    uniqueID: 419348901
+    locked: 0
+  - name: Furniture
+    uniqueID: 3090519287
+    locked: 0
+  - name: Items
+    uniqueID: 1365118361
+    locked: 0
+  - name: Player
+    uniqueID: 3379069229
+    locked: 0
